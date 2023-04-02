@@ -8,3 +8,5 @@ Coded and minimally modified from Android CodeLabs Dice Roller
 * Added an Average to get average of all rolls
 
 ## ScreenShots
+![image](./images/AppExample.jpg)
+![image](./images/AppExample2.jpg)
